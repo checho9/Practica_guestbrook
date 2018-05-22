@@ -35,3 +35,4 @@ app.use((request, response) => response.status(404).render('404'));
 http.createServer(app).listen (3000, () =>
 console.log('La aplicacion Guestbook esta corriendo por el puerto 3000')
 );
+//Sergio reyes
